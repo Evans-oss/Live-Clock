@@ -1,0 +1,20 @@
+body{
+    
+background-color: #282828;
+}
+
+#clock {
+   font-family: 'Dosis', sans-serif;
+   font-size: 155px;
+   margin: 17rem auto;
+   width: 400px;
+   height: 100px;
+   color: white;
+   line-height: 100px;
+   text-align: center;
+   border-radius: 16px;
+   
+
+
+
+}
